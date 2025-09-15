@@ -2,7 +2,7 @@
 
 ## Overview
 
-MultiviewAttention is a research project that implements attention mechanisms for multiview attention for surgical instruments recognition. This repository will contain the official implementation of our approach along with the datasets used in our experiments.
+MultiviewAttention is a research project that implements multiview attention for surgical instruments recognition. This repository will contain the official implementation of our approach along with the datasets used in our experiments.
 
 ## Current Status
 
